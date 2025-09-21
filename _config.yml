@@ -8,8 +8,11 @@
 # Name of website
 title: My Website
 
+# Short description of your site
+description: A virtual proof that I'm awesome
+
 # Your name to show in the footer
-author: Some Person
+author: Nguyen Khoi Phung
 
 # --- List of links in the navigation bar --- #
 
@@ -40,11 +43,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: ""
+  github: ""
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -99,16 +102,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#8A2BE2"
+navbar-text-col: "#EE82EE"
+navbar-border-col: "#A52A2A"
+page-col: "#FF7F50"
+text-col: "#008080"
+link-col: "#B22222"
+hover-col: "#40E0D0"
+footer-col: "#556B2F"
+footer-text-col: "#FFC0CB"
+footer-link-col: "#FFA500"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
